@@ -1,0 +1,1 @@
+This Andorid application is for SDja.com.
